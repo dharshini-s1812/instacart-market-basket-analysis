@@ -16,7 +16,6 @@ An end-to-end analytics project on the Instacart Online Grocery Shopping Dataset
 |---|---|---|
 | ![Ordering Patterns](images/ordering_patterns.png) | ![Products and Departments](images/products_departments.png) | ![Customer Segments](images/customer_segments.png) |
 
-*(Add your screenshots to an `images/` folder using these file names.)*
 
 ---
 
